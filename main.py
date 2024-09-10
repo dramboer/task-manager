@@ -1,6 +1,6 @@
 import datetime
 from taskManager import TaskManager
-from colored import Fore, Back, Style, stylize_interactive
+from colored import Fore, Style
 
 
 def colored_input(prompt=""):
