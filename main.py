@@ -40,12 +40,6 @@ def check_if_valid_date(input_date):
 def main():
     """
     Main function that runs the Task Manager application.
-
-    TODO:
-    - Instantiate a TaskManager object.
-    - Create a simple text-based menu to interact with the user.
-    - Allow the user to add tasks, view pending tasks, view completed tasks, and mark tasks as completed.
-    - Make sure the application runs in a loop until the user decides to exit.
     """
     manager = TaskManager()
     while True:
